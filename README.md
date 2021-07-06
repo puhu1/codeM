@@ -1,8 +1,9 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
+In this project gifs are implemented by fetching gifs from Giphy API . A person can search gif by
+a string in this application.
+## Available Scripts 
 
 In the project directory, you can run:
 
